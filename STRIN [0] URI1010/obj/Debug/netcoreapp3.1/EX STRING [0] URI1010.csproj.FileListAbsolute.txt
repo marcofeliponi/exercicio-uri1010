@@ -1,0 +1,13 @@
+C:\Users\Marco\Desktop\Estudos VS-21\STRING [0] URI1010\STRIN [0] URI1010\bin\Debug\netcoreapp3.1\EX STRING [0] URI1010.exe
+C:\Users\Marco\Desktop\Estudos VS-21\STRING [0] URI1010\STRIN [0] URI1010\bin\Debug\netcoreapp3.1\EX STRING [0] URI1010.deps.json
+C:\Users\Marco\Desktop\Estudos VS-21\STRING [0] URI1010\STRIN [0] URI1010\bin\Debug\netcoreapp3.1\EX STRING [0] URI1010.runtimeconfig.json
+C:\Users\Marco\Desktop\Estudos VS-21\STRING [0] URI1010\STRIN [0] URI1010\bin\Debug\netcoreapp3.1\EX STRING [0] URI1010.runtimeconfig.dev.json
+C:\Users\Marco\Desktop\Estudos VS-21\STRING [0] URI1010\STRIN [0] URI1010\bin\Debug\netcoreapp3.1\EX STRING [0] URI1010.dll
+C:\Users\Marco\Desktop\Estudos VS-21\STRING [0] URI1010\STRIN [0] URI1010\bin\Debug\netcoreapp3.1\EX STRING [0] URI1010.pdb
+C:\Users\Marco\Desktop\Estudos VS-21\STRING [0] URI1010\STRIN [0] URI1010\obj\Debug\netcoreapp3.1\EX STRING [0] URI1010.csprojAssemblyReference.cache
+C:\Users\Marco\Desktop\Estudos VS-21\STRING [0] URI1010\STRIN [0] URI1010\obj\Debug\netcoreapp3.1\EX STRING [0] URI1010.AssemblyInfoInputs.cache
+C:\Users\Marco\Desktop\Estudos VS-21\STRING [0] URI1010\STRIN [0] URI1010\obj\Debug\netcoreapp3.1\EX STRING [0] URI1010.AssemblyInfo.cs
+C:\Users\Marco\Desktop\Estudos VS-21\STRING [0] URI1010\STRIN [0] URI1010\obj\Debug\netcoreapp3.1\EX STRING [0] URI1010.csproj.CoreCompileInputs.cache
+C:\Users\Marco\Desktop\Estudos VS-21\STRING [0] URI1010\STRIN [0] URI1010\obj\Debug\netcoreapp3.1\EX STRING [0] URI1010.dll
+C:\Users\Marco\Desktop\Estudos VS-21\STRING [0] URI1010\STRIN [0] URI1010\obj\Debug\netcoreapp3.1\EX STRING [0] URI1010.pdb
+C:\Users\Marco\Desktop\Estudos VS-21\STRING [0] URI1010\STRIN [0] URI1010\obj\Debug\netcoreapp3.1\EX STRING [0] URI1010.genruntimeconfig.cache
